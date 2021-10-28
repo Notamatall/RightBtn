@@ -1,0 +1,10 @@
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\bin\Debug\SelectedNumbers.exe.config
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\bin\Debug\SelectedNumbers.exe
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\bin\Debug\SelectedNumbers.pdb
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.Properties.Resources.resources
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.csproj.GenerateResource.cache
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.csproj.CoreCompileInputs.cache
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.exe
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.pdb
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.ColorComp.resources
+G:\Проэкты C#\WinForms\HomeWork(Lesson6)\SelectedNumbers\obj\Debug\SelectedNumbers.csprojAssemblyReference.cache
